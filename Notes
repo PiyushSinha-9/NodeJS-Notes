@@ -1,0 +1,12 @@
+npm init 
+or 
+npm init --yes
+
+npm install lodash
+npm uninstall lodash
+npm install body-parser
+
+
+"^4.17.21"  // major.minor.patch
+^ -> no major update do download minor and patch changes 
+~ -> only patch updates 
